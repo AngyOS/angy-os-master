@@ -4,3 +4,6 @@
 [submodule "Base"]
 	path = Base
 	url = https://github.com/AngyOS/base
+[submodule "Userland/Applications/FileManager"]
+	path = Userland/Applications/FileManager
+	url = https://github.com/AngyOS/file-manager

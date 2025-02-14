@@ -1,0 +1,6 @@
+[submodule "AK"]
+	path = AK
+	url = https://github.com/AngyOS/AK
+[submodule "Base"]
+	path = Base
+	url = https://github.com/AngyOS/base

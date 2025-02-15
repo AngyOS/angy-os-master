@@ -7,3 +7,6 @@
 [submodule "Userland/Applications/FileManager"]
 	path = Userland/Applications/FileManager
 	url = https://github.com/AngyOS/file-manager
+[submodule "Kernel"]
+	path = Kernel
+	url = https://github.com/AngyOS/kernel
